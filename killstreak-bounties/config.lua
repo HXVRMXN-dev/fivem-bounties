@@ -1,8 +1,8 @@
 Config = {
-    Framework = "esx", -- Options: "esx", "qb-core"
+    Framework = "qb-core", -- Options: "esx", "qb-core"
 
     Notification = {
-        System = "mythic_notify", -- Options: "mythic_notify", "okokNotify", "qb-core", "esx", "chat"
+        System = "chat", -- Options: "mythic_notify", "okokNotify", "qb-core", "esx", "chat"
         Type = "success", -- Default notification type for rewards
         Duration = 5000 -- Default notification duration for rewards
     },
