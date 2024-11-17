@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'HXVRMXN.dev'
-description 'Red Dead Redemption Kill Based Bounty System with Configurable Framework and Notifications'
+description 'Kill Based Bounty System with Configurable Framework and Notifications'
 version '1.0.0'
 
 shared_script 'config.lua'
